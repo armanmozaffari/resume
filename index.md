@@ -37,4 +37,4 @@ I am studying computer engineering at PNU Parand University.
 
 - Quera Profile: <a href="">My Profile</a>
 
-  Persian Resume: <a href=" "> Resume </a>
+  Persian Resume: <a href="https://armanmozaffari.github.io/reume.farsi/"> Resume </a>
