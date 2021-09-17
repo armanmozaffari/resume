@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+<img src="https://avatars.githubusercontent.com/u/84289580?s=400&u=e4fe2f52dc54cac8dfe47b92eaef2de98b116e88&v=4"/>
+### About Me
 
-You can use the [editor on GitHub](https://github.com/armanmozaffari/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am Arman Mozaffari
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am studying computer engineering at PNU Parand University.
 
-### Markdown
+### Personal Information
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- First Name: Arman
+- Last Name: Mozaffari
+- Birth Date: 27/10/1996
+- Marriage Status: Single
 
-```markdown
-Syntax highlighted code block
+### Skills
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
++ Figma
 
-1. Numbered
-2. List
++ Corel draw
 
-**Bold** and _Italic_ and `Code` text
++ ICDL1
 
-[Link](url) and ![Image](src)
-```
+### Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- Persian(Advanced)
 
-### Jekyll Themes
+- English(Normal)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/armanmozaffari/resume/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Licenses & Certifications
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- ICDL1 
+
+### Other Accounts
+-Gmail: nstcrck@Gmail.com
+
+- Quera Profile: <a href="">My Profile</a>
+
+  Persian Resume: <a href=" "> Resume </a>
